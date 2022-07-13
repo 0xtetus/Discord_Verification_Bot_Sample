@@ -1,0 +1,58 @@
+{
+  "force_sub": false,
+  "back_end_checks": false,
+  "password": "password",
+
+  "verified_role_id": "verified_role_id",
+  "YOUR_DISCORD_GUILD_ID": "THIS SHOULD BE SPECIFIC INSIDE ---> src/components/CommandsLoader.js",
+
+
+  "discord": {
+    "token": "DISCORD_TOKEN"
+  },
+
+  "twitter": {
+    "consumer_key": "consumer_key",
+    "consumer_secret": "consumer_secret",
+    "bearer_token": "bearer_token",
+    "access_token_key": "access_token_key",
+    "access_secret_token": "access_secret_token"
+  },
+
+  "instagram": {
+    "username": "username",
+    "password": "password"
+  },
+
+  "youtube": {
+    "myToken": "myToken",
+    "myClientId": "myClientId",
+    "myClientSecret": "myClientSecret",
+    "apiKey": "apiKey"
+  },
+
+
+  "accounts": {
+    "twitter": [
+      {
+        "screen_name": "web3verse_"
+      },
+      {
+        "screen_name": "BlaisePascalll"
+      },
+      {
+        "screen_name": "think"
+      }
+    ],
+    "instagram": [
+      {
+        "screen_name": "societeberlin"
+      }
+    ],
+    "youtube": [
+      {
+        "url": "https://www.youtube.com/user/monoclemagazine"
+      }
+    ]
+  }
+}
